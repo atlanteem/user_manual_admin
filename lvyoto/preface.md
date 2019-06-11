@@ -21,4 +21,16 @@
  * 交换名片
 ![投递项目](https://raw.githubusercontent.com/atlanteem/user_manual_admin/master/lvyoto/files/%E6%8A%95%E9%80%92%E9%A1%B9%E7%9B%AE.gif)
 
+## 发布资金
+会员等级为V1的资金方，可以发布资金
+ * 发布资金
+ ![发布资金](https://raw.githubusercontent.com/atlanteem/user_manual_admin/master/lvyoto/files/发布资金.gif)
+ 
+ ## 发布项目
+ 
+ 会员等级为V1的项目方，可以发布项目
+ * 发布项目
+ ![发布项目](https://raw.githubusercontent.com/atlanteem/user_manual_admin/master/lvyoto/files/发布项目.gif)
+ 
+
 
