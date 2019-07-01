@@ -7,8 +7,8 @@
 
 - 第2章：[主数据](chapter2/2.0.md)
 
-	- 2.1 [栏目管理](chapter2/2.1.md)
-	- 2.2 [菜单管理](chapter2/2.2.md)
+  - 2.1 [栏目管理](chapter2/2.1.md)
+  - 2.2 [菜单管理](chapter2/2.2.md)
   - 2.3 [类目管理](chapter2/2.3.md)
   - 2.4 [型号索引](chapter2/2.4.md)
   - 2.5 [销售渠道](chapter2/2.5.md)
@@ -18,8 +18,8 @@
   
 - 第3章：[组织管理](chapter3/3.0.md)
 
-	- 3.1 [平台运营](chapter3/3.1.md)
-	- 3.2 [合作伙伴](chapter3/3.2.md)
+  - 3.1 [平台运营](chapter3/3.1.md)
+  - 3.2 [合作伙伴](chapter3/3.2.md)
   - 3.3 [制造商](chapter3/3.3.md)
   - 3.4 [供应商](chapter3/3.4.md)
   - 3.5 [分销商](chapter3/3.5.md)
@@ -45,8 +45,8 @@
 
 - 第6章：[投融管理](chapter6/6.0.md)
 
-	- 6.1 [资金](chapter6/6.1.md)
-	- 6.2 [项目](chapter6/6.2.md)
+  - 6.1 [资金](chapter6/6.1.md)
+  - 6.2 [项目](chapter6/6.2.md)
 
 
 - 第7章：[内容管理](chapter7/7.0.md)
